@@ -1,0 +1,45 @@
+.main-section {
+  flex: auto;
+  padding: 1em;
+  background-color: #eee;
+  display: flex;
+  flex-direction: column;
+}
+
+.main-section__button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  outline: none;
+  background-color: #766df4;
+  color: white;
+  border-radius: 5px;
+  padding: 1em 1.5em;
+  border: none;
+  cursor: pointer;
+  margin-left: auto;
+}
+
+.main-section__content {
+  flex: auto;
+  margin-top: 3.5em;
+  padding: 3em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.contact-image {
+  width: 100px;
+  height: 100px;
+  border-radius: 8px;
+  background-color: #ddd;
+  margin-bottom: 1em;
+}
+
+.contact-details {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "first_name": "Sani",
+      "last_name": "Mustapha",
+      "phone_number": "+2348092285783",
+      "email_address": "coder.arewa@gmail.com",
+      "description": "Software Engineer",
+      "isBlackListed": false
+    },
+    {
+      "first_name": "Eche",
+      "last_name": "Emmanuel",
+      "phone_number": "+2348092285783",
+      "email_address": "eche@gmail.com",
+      "description": "Software Engineer",
+      "isBlackListed": false
+    },
+    {
+      "first_name": "Isaac",
+      "last_name": "Josep",
+      "phone_number": "+2348092285783",
+      "email_address": "isaac@gmail.com",
+      "description": "Software Engineer",
+      "isBlackListed": false
+    },
+    {
+      "first_name": "Solomon",
+      "last_name": "King",
+      "phone_number": "+2348092285783",
+      "email_address": "coder.arewa@gmail.com",
+      "description": "Software Engineer",
+      "isBlackListed": false
+    },
+    {
+      "first_name": "Tunmi",
+      "last_name": "Adetayo",
+      "phone_number": "+2348092285783",
+      "email_address": "coder.arewa@gmail.com",
+      "description": "Software Engineer",
+      "isBlackListed": false
+    }
+  ]
+}
